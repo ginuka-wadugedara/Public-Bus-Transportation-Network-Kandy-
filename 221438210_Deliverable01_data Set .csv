@@ -1,0 +1,101 @@
+Route_ID	Route_Name	Stop_Name	Stop_Sequence	Scheduled_Arrival	Actual_Arrival	Delay_Minutes	Passenger_Count	Capacity	Route_Length_km	Trip_Duration_Minutes
+625/1	Kandy – Warapitiya – Karadagolla	Kandy	1	09:05	09:06	1	15	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Kandy	1	08:50	08:50	0	14	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Kandy	1	13:43	13:51	8	15	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Kandy	1	12:48	12:50	2	12	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Kandy	1	17:21	17:24	3	19	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Kandy	1	13:18	13:22	4	9	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Kandy	1	17:51	17:54	3	9	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Central Junction	2	13:25	13:33	8	15	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Central Junction	2	15:25	15:31	6	20	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Central Junction	2	08:09	08:16	7	24	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Central Junction	2	13:17	13:19	2	21	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Central Junction	2	15:15	15:15	0	17	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Main Street	3	13:57	14:03	6	26	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Main Street	3	13:32	13:32	0	17	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Main Street	3	11:57	12:00	3	20	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Main Street	3	09:04	09:09	5	19	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Main Street	3	09:37	09:42	5	35	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Warapitiya	4	09:11	09:18	7	23	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Warapitiya	4	11:19	11:22	3	20	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Warapitiya	4	10:18	10:18	0	31	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Warapitiya	4	17:42	17:47	5	35	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Warapitiya	4	09:26	09:26	0	16	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Warapitiya	4	18:12	18:16	4	22	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Warapitiya	4	13:39	13:43	4	20	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Karadagolla	5	15:46	15:50	4	43	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Karadagolla	5	07:13	07:16	3	26	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Karadagolla	5	16:43	16:49	6	26	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Karadagolla	5	09:51	09:51	0	49	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Karadagolla	5	13:46	13:48	2	20	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Karadagolla	5	12:25	12:31	6	36	50	10.3	30
+625/1	Kandy – Warapitiya – Karadagolla	Karadagolla	5	11:26	11:26	0	27	50	10.3	30
+631	Kandy – Mahawatta – Menikhinna	Kandy	1	07:46	07:52	6	12	50	15.9	35
+631	Kandy – Mahawatta – Menikhinna	Kandy	1	06:14	06:17	3	18	50	15.9	35
+631	Kandy – Mahawatta – Menikhinna	Kandy	1	08:06	08:06	0	15	50	15.9	35
+631	Kandy – Mahawatta – Menikhinna	Hospital Stop	2	07:10	07:10	0	21	50	15.9	35
+631	Kandy – Mahawatta – Menikhinna	Hospital Stop	2	11:04	11:10	6	21	50	15.9	35
+631	Kandy – Mahawatta – Menikhinna	School Stop	3	08:22	08:23	1	25	50	15.9	35
+631	Kandy – Mahawatta – Menikhinna	School Stop	3	13:44	13:44	0	21	50	15.9	35
+631	Kandy – Mahawatta – Menikhinna	Mahawatta	4	13:52	13:55	3	23	50	15.9	35
+631	Kandy – Mahawatta – Menikhinna	Mahawatta	4	10:35	10:38	3	26	50	15.9	35
+631	Kandy – Mahawatta – Menikhinna	Mahawatta	4	08:18	08:25	7	33	50	15.9	35
+631	Kandy – Mahawatta – Menikhinna	Mahawatta	4	15:59	16:00	1	27	50	15.9	35
+631	Kandy – Mahawatta – Menikhinna	Menikhinna	5	10:43	10:50	7	29	50	15.9	35
+631	Kandy – Mahawatta – Menikhinna	Menikhinna	5	07:46	07:49	3	28	50	15.9	35
+631	Kandy – Mahawatta – Menikhinna	Menikhinna	5	13:12	13:19	7	46	50	15.9	35
+631	Kandy – Mahawatta – Menikhinna	Menikhinna	5	09:33	09:35	2	23	50	15.9	35
+638/1	Delta – Wadiyagoda – Talathuoya	Delta	1	10:38	10:41	3	13	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Delta	1	09:06	09:06	0	23	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Delta	1	17:04	17:08	4	18	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Delta	1	15:07	15:13	6	19	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Delta	1	06:52	06:56	4	10	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Delta	1	17:17	17:23	6	12	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Delta	1	17:16	17:21	5	25	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Delta	1	07:44	07:44	0	22	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Delta	1	09:52	09:53	1	14	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Delta	1	07:33	07:34	1	24	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Wadiyagoda	2	15:51	15:57	6	28	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Wadiyagoda	2	17:10	17:11	1	19	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Wadiyagoda	2	17:44	17:50	6	20	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Wadiyagoda	2	10:44	10:48	4	20	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Wadiyagoda	2	08:02	08:10	8	25	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Wadiyagoda	2	17:47	17:47	0	24	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Wadiyagoda	2	16:21	16:28	7	16	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Market Stop	3	17:30	17:35	5	25	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Market Stop	3	09:18	09:24	6	38	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Market Stop	3	15:19	15:27	8	25	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Market Stop	3	15:10	15:17	7	29	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Town Hall	4	15:22	15:25	3	20	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Town Hall	4	16:03	16:04	1	29	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Town Hall	4	16:31	16:36	5	29	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Town Hall	4	07:48	07:50	2	41	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Talathuoya	5	08:20	08:27	7	34	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Talathuoya	5	16:09	16:16	7	30	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Talathuoya	5	18:05	18:09	4	43	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Talathuoya	5	17:28	17:32	4	25	50	31.1	25
+638/1	Delta – Wadiyagoda – Talathuoya	Talathuoya	5	08:08	08:10	2	39	50	31.1	25
+638/3	Marassana – Wadiyagoda – Delta	Marassana	1	17:33	17:35	2	16	50	21.1	20
+638/3	Marassana – Wadiyagoda – Delta	Marassana	1	09:29	09:32	3	16	50	21.1	20
+638/3	Marassana – Wadiyagoda – Delta	Post Office	2	12:23	12:26	3	10	50	21.1	20
+638/3	Marassana – Wadiyagoda – Delta	Post Office	2	13:20	13:24	4	20	50	21.1	20
+638/3	Marassana – Wadiyagoda – Delta	Post Office	2	12:20	12:22	2	20	50	21.1	20
+638/3	Marassana – Wadiyagoda – Delta	Post Office	2	17:35	17:42	7	24	50	21.1	20
+638/3	Marassana – Wadiyagoda – Delta	Post Office	2	09:24	09:31	7	15	50	21.1	20
+638/3	Marassana – Wadiyagoda – Delta	Post Office	2	11:41	11:49	8	22	50	21.1	20
+638/3	Marassana – Wadiyagoda – Delta	Post Office	2	16:24	16:28	4	29	50	21.1	20
+638/3	Marassana – Wadiyagoda – Delta	Wadiyagoda	3	06:13	06:13	0	27	50	21.1	20
+638/3	Marassana – Wadiyagoda – Delta	Wadiyagoda	3	10:47	10:52	5	26	50	21.1	20
+638/3	Marassana – Wadiyagoda – Delta	Wadiyagoda	3	09:03	09:03	0	27	50	21.1	20
+638/3	Marassana – Wadiyagoda – Delta	Wadiyagoda	3	12:25	12:30	5	25	50	21.1	20
+638/3	Marassana – Wadiyagoda – Delta	Wadiyagoda	3	08:54	09:00	6	22	50	21.1	20
+638/3	Marassana – Wadiyagoda – Delta	Wadiyagoda	3	12:28	12:31	3	12	50	21.1	20
+638/3	Marassana – Wadiyagoda – Delta	Wadiyagoda	3	10:14	10:15	1	28	50	21.1	20
+638/3	Marassana – Wadiyagoda – Delta	Bridge Stop	4	13:00	13:04	4	33	50	21.1	20
+638/3	Marassana – Wadiyagoda – Delta	Bridge Stop	4	16:34	16:37	3	31	50	21.1	20
+638/3	Marassana – Wadiyagoda – Delta	Bridge Stop	4	07:53	07:55	2	35	50	21.1	20
+638/3	Marassana – Wadiyagoda – Delta	Bridge Stop	4	09:08	09:09	1	34	50	21.1	20
+638/3	Marassana – Wadiyagoda – Delta	Delta	5	13:35	13:40	5	26	50	21.1	20
+638/3	Marassana – Wadiyagoda – Delta	Delta	5	13:05	13:07	2	32	50	21.1	20
+638/3	Marassana – Wadiyagoda – Delta	Delta	5	14:20	14:28	8	41	50	21.1	20
+638/3	Marassana – Wadiyagoda – Delta	Delta	5	16:39	16:46	7	31	50	21.1	20
